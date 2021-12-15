@@ -1,0 +1,13 @@
+E:\Projetos\ProjetoEmpresa\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\netcoreapp3.1\ProjetoEmpresa.exe
+E:\Projetos\ProjetoEmpresa\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\netcoreapp3.1\ProjetoEmpresa.deps.json
+E:\Projetos\ProjetoEmpresa\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\netcoreapp3.1\ProjetoEmpresa.runtimeconfig.json
+E:\Projetos\ProjetoEmpresa\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\netcoreapp3.1\ProjetoEmpresa.runtimeconfig.dev.json
+E:\Projetos\ProjetoEmpresa\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\netcoreapp3.1\ProjetoEmpresa.dll
+E:\Projetos\ProjetoEmpresa\ProjetoEmpresa\ProjetoEmpresa\bin\Debug\netcoreapp3.1\ProjetoEmpresa.pdb
+E:\Projetos\ProjetoEmpresa\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\netcoreapp3.1\ProjetoEmpresa.csprojAssemblyReference.cache
+E:\Projetos\ProjetoEmpresa\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\netcoreapp3.1\ProjetoEmpresa.AssemblyInfoInputs.cache
+E:\Projetos\ProjetoEmpresa\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\netcoreapp3.1\ProjetoEmpresa.AssemblyInfo.cs
+E:\Projetos\ProjetoEmpresa\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\netcoreapp3.1\ProjetoEmpresa.csproj.CoreCompileInputs.cache
+E:\Projetos\ProjetoEmpresa\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\netcoreapp3.1\ProjetoEmpresa.dll
+E:\Projetos\ProjetoEmpresa\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\netcoreapp3.1\ProjetoEmpresa.pdb
+E:\Projetos\ProjetoEmpresa\ProjetoEmpresa\ProjetoEmpresa\obj\Debug\netcoreapp3.1\ProjetoEmpresa.genruntimeconfig.cache
